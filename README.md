@@ -17,6 +17,8 @@ This is an open sourced book on deep learning. This book is supposed to be non m
 
 ### How can you contribute? 
 - You can contribute by creating better image assests.
-- You can add better explanations to the topics 
+- You can add better explanations to the topics. 
+- You can add working google colab notebooks.
+- You can add more pytorch examples for beginners.
 
 Feel free to raise PR and contribute.

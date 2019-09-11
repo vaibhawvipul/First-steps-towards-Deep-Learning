@@ -5,10 +5,12 @@ This is an open sourced book on deep learning. This book is supposed to be non m
 
 ![alt text](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning/blob/master/images/First%20steps%20towards%20deep%20learning%20with%20pytorch%20cover.png "Book Cover")
 
+#### **NOTE** - I am still writing the book this is the first draft!
+
 ### Contents 
 
 - [x] Chapter - 1 Understanding Artificial Neural Networks
-- [ ] Chapter - 2 Introduction to pyTorch
+- [x] Chapter - 2 Introduction to pyTorch
 - [ ] Chapter - 3 How to make a computer see?
 - [ ] Chapter - 4 How to make a computer remember stuff?
 - [ ] Chapter - 5 Where to go from here?

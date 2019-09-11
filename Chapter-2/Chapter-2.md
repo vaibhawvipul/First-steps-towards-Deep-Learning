@@ -58,7 +58,7 @@ Some stuff to know before proceeding to the following code -
 1. Epoch - It is a measure of the number of times all of the training data are used once to update the weights. An epoch can have multiple iteration steps. Since whole data can be very big to load in memory, so we often load the data in batches and pass it through the neural network, such passes of mini-batches are known as iteration steps. 
 2. Iris dataset -  Iris flower data set is a multivariate dataset which has 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor) and their petal length, sepal length, petal width and sepal width.
 
-![alt text](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning/blob/master/Chapter-2/assests/Chapter-2-fig-1.png "Figure 1")
+![alt text](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning/blob/master/Chapter-2/assests/Chapter-2-figure-1.png "Figure 1")
 
 ```
 # Let us start with importing the libraries

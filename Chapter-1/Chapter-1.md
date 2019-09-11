@@ -23,7 +23,7 @@ How do we develop AI? Where do we go for inspiration? When we had to build a pla
 
 ### What are neural networks?
 
-![alt text](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning/Chapter-1/assests/Chapter-1-fig-1.png "Figure 1")
+![alt text](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning/blob/master/Chapter-1/assests/Chapter-1-fig-1%20.png "Figure 1")
 
 
 Before this representation of neural network starts unsettling us let us take time to understand how this architecture was thought of and how to interpret the image.
@@ -56,7 +56,7 @@ while 1:
 ```
 We won’t go through the code for now. Following will be the output.
 
-![alt text](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning/Chapter-1/assests/Chapter-1-hog.png "HOG")
+![alt text](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning/blob/master/Chapter-1/assests/Chapter-1-hog.png "HOG")
 
 The challenge is that it is hard to write every possible feature in all the varying conditions by hand. That is why we give neural nets diverse data points so that it can learn these features by itself.  Neural networks adapt to the new inputs they see. If designed well then it has an amazing capability to generalize across various scenarios and often across domains. A neural network which is trained to differentiate between cats and dogs can also be used to differentiate between elephants and giraffes via the process of *transfer learning*.  
 

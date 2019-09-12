@@ -11,9 +11,9 @@ This is an open sourced book on deep learning. This book is supposed to be non m
 
 - [x] Chapter - 1 Understanding Artificial Neural Networks
 - [x] Chapter - 2 Introduction to pyTorch
-- [ ] Chapter - 3 How to make a computer see?
+- [x] Chapter - 3 How to make a computer see?
 - [ ] Chapter - 4 How to make a computer remember stuff?
-- [ ] Chapter - 5 Where to go from here?
+- [x] Chapter - 5 Where to go from here?
 
 ### How can you contribute? 
 - You can contribute by creating better image assests.

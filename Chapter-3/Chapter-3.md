@@ -31,7 +31,9 @@ Again not getting into mathematics but if we try to understand intuitively, if w
 Note - There are some dimensionality reduction techniques which might not lose data always. 
 
 The following is the example image = 
+
 ![alt text](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning/blob/master/Chapter-3/assests/img_3d.jpg "Figure")
+
 source - ["Computer History Museum" by Scott Beale is licensed under CC BY-NC 2.0](https://ccsearch.creativecommons.org/photos/52b18712-554e-4aff-8c87-d74187d92a07) 
 
 Let us try to visualize a three dimensional array.

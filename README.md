@@ -22,3 +22,5 @@ This is an open sourced book on deep learning. This book is supposed to be non m
 - You can add more pytorch examples for beginners.
 
 Feel free to raise PR and contribute.
+
+check out [reddit post](https://www.reddit.com/r/learnmachinelearning/comments/d85isn/i_open_sourced_my_book/)

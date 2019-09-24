@@ -128,6 +128,8 @@ Shallow networks are very good at memorization, but not so good at *generalizati
 
 I know this is confusing! So one take on this can be to train a deep model and then try to minimize it. By following this approach one can quickly prototype and eventually follow *neural network compression and quantization*.
 
+There is a dedicated research area for this topic called Neural Architecture Search (NAS), that focuses on creating algorithms or methods for finding the optimal architecture that fits certain data, by architecture meaning the number of layers, nodes, etc of a network. This is a subfield of AutoMachine Learning that it is growing in importance through this last years. More info and literature about it can be found ![here](https://www.automl.org/automl/literature-on-neural-architecture-search/)
+
 ---
 
 ### Types of Learning

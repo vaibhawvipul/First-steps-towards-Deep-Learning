@@ -17,6 +17,8 @@ Did you notice? How beautifully and precise are these questions? Generations of 
 
 You see what I did there? Yes, Human Brain is the core of all the curiosity here. So what if we focus on developing a human brain? We will be able to put that brain to focus on trivial issues like driving a car,making sure that fraud doesn’t happen over credit card transactions etc. We can also put it to remote places where accessibility is an issue and solve complicated problems. We can put that brain to evaluate cardiovascular diseases via a retina scan. Now to do this, to carry out the tasks mentioned above we need intelligence. We need Artificial Intelligence!
 
+Note - The [Blue Brain project](https://www.epfl.ch/research/domains/bluebrain/blue-brain/about/) is a dedicated team of folks who are working to build a digital reconsruction and simulations of a rodent and eventually human brain.
+
 How do we develop AI? Where do we go for inspiration? When we had to build a plane, we studied birds. For building helicopters, dragonflies came for rescue. So to build a system which can be put to solve trivial as well as complicated problems, we need to look for inspiration from the most intelligent species on earth. We need to look inside a living being which has the largest cerebral cortex relative to their size. We would need to look inside Human Brain! 
 
 --- 

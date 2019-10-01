@@ -22,10 +22,20 @@ def replace_images(html):
     return html
 
 
+def get_cover_image():
+    images = PROJECT_ROOT_DIR.glob('images/*.png')
+    cover_img = None
+    for im in images:
+        if 'cover' in im.name.lower():
+            cover_img = im.as_uri()
+            return f'<img src="{cover_img}">'
+
+
 def main():
     chapter_folders = [d for d in PROJECT_ROOT_DIR.iterdir() if d.is_dir() and d.name.lower().startswith('chapter')]
     markdowner = Markdown(extras=['fenced-code-blocks'])
-    all_html = []
+    cover = get_cover_image()
+    all_html = [cover] if cover else []
     for fold in chapter_folders:
         md = next(fold.glob('*.md'))
         with open(md, 'r', encoding='utf-8') as f:

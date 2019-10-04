@@ -101,6 +101,9 @@ Backpropagation is just another name for automatic differentiation. Our agenda h
 
 Note - Geoffery Hinton, father of current AI boom, is deeply suspicious about Backpropagation.  He says “My view is throw it all away and start again, I don't think it's how the brain works. We clearly don't need all the labeled data". We humans try to find patterns in everything. We do it with the even scarcity and sparsity of data. There has to be a better way than backpropagation. We need to think more about unsupervised learning.
 
+Check out this video for a more intutive explanation: https://www.youtube.com/watch?v=Ilg3gGewQ5U
+Check out this video for a more mathematical explation: https://www.youtube.com/watch?v=tIeHLnjs5U8&t=317s
+
 --- 
 
 ### Universal Approximators

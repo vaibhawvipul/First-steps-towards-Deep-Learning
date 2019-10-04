@@ -3,12 +3,13 @@
 
 If you have come this far, it means that you are now familiar with basic terminologies of the deep learning world. I hope that this book has served you well in acquainting you with the deep learning world and a little bit with pyTorch.
 
-Now, Following is how I will advise you to advance in this field - 
+Now, following is how I will advise you to advance in this field - 
 
 1. Start with [Fast.ai](https://www.fast.ai/) MOOCs.
 2. Alongwith Fast ai's courses, keep reading [lecture notes](http://cs231n.github.io/) from Andrej Karpathy.
 3. Once you are comfortable with Jeremy Howard's Fast Ai. Start [CS 231n](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC).
 4. I'd also suggest you to dive in Machine Learning world now. [CS 229](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599).
+5. A well animated intutive explation to topics such as neural networks,gradient descent and backpropagation. https://www.3blue1brown.com/neural-networks
 
 The resources mentioned above should give you a great boost in your learning journey.
 

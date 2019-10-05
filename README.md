@@ -1,7 +1,7 @@
-# First steps towards Deep Learning with pyTorch
-## initiative by - Vipul Vaibhaw
+# First steps towards Deep Learning with PyTorch
+## Initiative by - Vipul Vaibhaw
 
-This is an open sourced book on deep learning. This book is supposed to be non mathematical and cater the readers who have no experience with deep learning and very less mathematical knowledge or interest. This book is meant to help readers take their "First Step" towards Deep Learning.
+This is an open sourced book on deep learning. This book is supposed to be mathematically light and caters to the readers who have no experience with deep learning or a strong mathematics background. This book is meant to help readers take their "First Step" towards Deep Learning.
 
 ![alt text](https://github.com/vaibhawvipul/First-steps-towards-Deep-Learning/blob/master/images/First%20steps%20towards%20deep%20learning%20with%20pytorch%20cover.png "Book Cover")
 
@@ -23,4 +23,4 @@ This is an open sourced book on deep learning. This book is supposed to be non m
 
 Feel free to raise PR and contribute.
 
-check out [reddit post](https://www.reddit.com/r/learnmachinelearning/comments/d85isn/i_open_sourced_my_book/)
+Check out [reddit post](https://www.reddit.com/r/learnmachinelearning/comments/d85isn/i_open_sourced_my_book/)

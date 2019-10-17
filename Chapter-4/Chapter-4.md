@@ -5,4 +5,5 @@
 - What are RNNs?
 - LSTM and its variants
 - Generating words with LSTMs in pytorch
-- Advances in the field
+- problems with RNNs and LSTMS
+- Advances in the field (Transformers)

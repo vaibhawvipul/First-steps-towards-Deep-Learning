@@ -5,7 +5,7 @@ cssselect2==0.2.2
 defusedxml==0.6.0
 html5lib==1.0.1
 markdown2==2.3.8
-Pillow==6.1.0
+Pillow==9.0.0
 pycparser==2.19
 Pyphen==0.9.5
 six==1.12.0
